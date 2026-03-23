@@ -1,0 +1,33 @@
+# --- Secrets & auth tokens ---
+db/pg_token.json
+db/config.json
+.env
+*.env
+
+# --- Local databases & test data ---
+data/*.db
+data/*.csv
+
+# --- Logs ---
+logs/
+
+# --- Python ---
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# --- Node / Frontend ---
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/*.tsbuildinfo
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini

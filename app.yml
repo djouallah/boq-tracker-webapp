@@ -1,0 +1,5 @@
+command:
+  - uvicorn
+  - main:app
+  - --proxy-headers
+  - --forwarded-allow-ips=*
