@@ -42,15 +42,7 @@ npm install
 
 ### Configure
 
-Copy the DB config template and fill in your Azure PostgreSQL details via the Setup page in the UI, or create `db/config.json` manually:
-
-```json
-{
-  "host": "your-server.postgres.database.azure.com",
-  "database": "postgres",
-  "tenant_id": "your-tenant-id"
-}
-```
+Enter your Azure PostgreSQL connection details in the **Setup** page of the UI after starting the app.
 
 ### Run
 
