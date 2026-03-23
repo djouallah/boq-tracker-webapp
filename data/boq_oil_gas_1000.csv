@@ -1,0 +1,1001 @@
+category,code,description,unit,budget_quantity
+Civil_&_Earthworks,CEW.001,Topsoil strip and stockpile,m3,1412
+Civil_&_Earthworks,CEW.002,Bulk excavation,m3,1819
+Civil_&_Earthworks,CEW.003,Trench excavation for pipelines,m3,6274
+Civil_&_Earthworks,CEW.004,Backfill and compaction,m3,5006
+Civil_&_Earthworks,CEW.005,Gravel sub-base 300mm thick,m2,4512
+Civil_&_Earthworks,CEW.006,Road base course 200mm,m2,2128
+Civil_&_Earthworks,CEW.007,Asphalt paving 75mm,m2,1443
+Civil_&_Earthworks,CEW.008,Concrete kerb and channel,m,1608
+Civil_&_Earthworks,CEW.009,Chain-link security fence 2.4m,m,939
+Civil_&_Earthworks,CEW.010,Vehicle access gate motorised,each,9
+Civil_&_Earthworks,CEW.011,Drainage channel concrete lined,m,139
+Civil_&_Earthworks,CEW.012,Culvert 600mm dia HDPE,m,161
+Civil_&_Earthworks,CEW.013,Rock breaking and disposal,m3,1828
+Civil_&_Earthworks,CEW.014,Temporary site hoarding 2m,m,66
+Civil_&_Earthworks,CEW.015,Erosion control matting,m2,322
+Civil_&_Earthworks,CEW.016,Site clearing and grubbing,ha,6
+Civil_&_Earthworks,CEW.017,Sand bedding for pipes 150mm,m3,273
+Civil_&_Earthworks,CEW.018,Geotextile filter fabric,m2,2405
+Civil_&_Earthworks,CEW.019,Retaining wall mass concrete,m3,308
+Civil_&_Earthworks,CEW.020,Slope stabilisation shotcrete,m2,1332
+Concrete_Works,CON.001,Lean concrete blinding 50mm,m3,33
+Concrete_Works,CON.002,Reinforced concrete foundation,m3,624
+Concrete_Works,CON.003,Concrete pile cap,m3,121
+Concrete_Works,CON.004,Concrete slab on grade 200mm,m3,1566
+Concrete_Works,CON.005,Concrete column,m3,176
+Concrete_Works,CON.006,Concrete beam,m3,289
+Concrete_Works,CON.007,Concrete wall 250mm,m3,234
+Concrete_Works,CON.008,Precast concrete plank,m2,1002
+Concrete_Works,CON.009,Concrete bund wall,m3,124
+Concrete_Works,CON.010,Concrete pump sump,each,19
+Concrete_Works,CON.011,Formwork to slab soffit,m2,2478
+Concrete_Works,CON.012,Formwork to columns,m2,878
+Concrete_Works,CON.013,Formwork to walls,m2,1880
+Concrete_Works,CON.014,Rebar supply and fix 16mm,ton,6
+Concrete_Works,CON.015,Rebar supply and fix 20mm,ton,86
+Concrete_Works,CON.016,Rebar supply and fix 32mm,ton,91
+Concrete_Works,CON.017,Concrete finishing and curing,m2,3662
+Concrete_Works,CON.018,Expansion joint 20mm,m,224
+Concrete_Works,CON.019,Waterstop PVC 200mm,m,162
+Concrete_Works,CON.020,Concrete anchor block,each,24
+Steel_Structures,STL.001,Primary steel columns HD section,ton,60
+Steel_Structures,STL.002,Primary steel beams UC section,ton,177
+Steel_Structures,STL.003,Secondary steel purlins,ton,15
+Steel_Structures,STL.004,Steel bracing system,ton,6
+Steel_Structures,STL.005,Steel grating flooring 25mm,m2,828
+Steel_Structures,STL.006,Chequer plate flooring 6mm,m2,69
+Steel_Structures,STL.007,Handrail and kickplate,m,785
+Steel_Structures,STL.008,Steel staircase,each,12
+Steel_Structures,STL.009,Ladder with cage,m,164
+Steel_Structures,STL.010,Steel pipe rack structure,ton,72
+Steel_Structures,STL.011,Structural steel fabrication,ton,423
+Steel_Structures,STL.012,Structural steel erection,ton,32
+Steel_Structures,STL.013,Anchor bolts and baseplate,each,393
+Steel_Structures,STL.014,Steel monorail beam,m,127
+Steel_Structures,STL.015,Davit arm for maintenance,each,19
+Steel_Structures,STL.016,Steel shelter and canopy structure,m2,83
+Steel_Structures,STL.017,Modular skid baseframe,ton,26
+Steel_Structures,STL.018,Miscellaneous steelwork,ton,3
+Steel_Structures,STL.019,Steel coaming 150mm,m,302
+Steel_Structures,STL.020,Steel access platform,m2,160
+Piping,PIP.001,CS pipe 2in SCH40 seamless,m,1748
+Piping,PIP.002,CS pipe 4in SCH40 seamless,m,2624
+Piping,PIP.003,CS pipe 6in SCH40 seamless,m,2583
+Piping,PIP.004,CS pipe 8in SCH40 seamless,m,1511
+Piping,PIP.005,CS pipe 10in SCH40 seamless,m,1202
+Piping,PIP.006,CS pipe 12in SCH40 seamless,m,413
+Piping,PIP.007,CS pipe 16in SCH40 LSAW,m,731
+Piping,PIP.008,CS pipe 20in SCH40 LSAW,m,81
+Piping,PIP.009,SS 316L pipe 2in SCH40,m,33
+Piping,PIP.010,SS 316L pipe 4in SCH40,m,348
+Piping,PIP.011,CS elbow 90deg 4in BW,each,126
+Piping,PIP.012,CS elbow 90deg 6in BW,each,84
+Piping,PIP.013,CS elbow 90deg 8in BW,each,25
+Piping,PIP.014,CS tee equal 4in BW,each,34
+Piping,PIP.015,CS tee equal 6in BW,each,17
+Piping,PIP.016,CS reducer 6x4in BW,each,53
+Piping,PIP.017,CS reducer 8x6in BW,each,40
+Piping,PIP.018,CS flange RFWN 4in 150lb CS,each,242
+Piping,PIP.019,CS flange RFWN 6in 150lb CS,each,172
+Piping,PIP.020,CS flange RFWN 8in 300lb CS,each,98
+Piping,PIP.021,CS flange RFWN 10in 300lb CS,each,25
+Piping,PIP.022,CS flange blind 4in 150lb,each,52
+Piping,PIP.023,CS flange blind 6in 150lb,each,50
+Piping,PIP.024,CS studbolt set 4in 150lb,set,117
+Piping,PIP.025,CS studbolt set 6in 150lb,set,181
+Piping,PIP.026,Gasket spiral wound 4in 150lb,each,146
+Piping,PIP.027,Gasket spiral wound 6in 150lb,each,189
+Piping,PIP.028,Pipe support shoe CS 4in,each,489
+Piping,PIP.029,Pipe support shoe CS 6in,each,359
+Piping,PIP.030,Pipe support guide CS 8in,each,170
+Piping,PIP.031,Spring hanger variable 4in,each,6
+Piping,PIP.032,Flexible hose SS 2in 600mm,each,40
+Piping,PIP.033,Pipe spool fabrication CS 4in,m,670
+Piping,PIP.034,Pipe spool fabrication CS 6in,m,195
+Piping,PIP.035,Pipe spool installation 4in,m,566
+Piping,PIP.036,Pipe spool installation 6in,m,270
+Piping,PIP.037,Piping hydrostatic test 6in,m,187
+Piping,PIP.038,Piping flushing and cleaning,lot,8
+Piping,PIP.039,HDPE pipe DN110 SDR11,m,827
+Piping,PIP.040,HDPE pipe DN200 SDR11,m,602
+Valves,VLV.001,Gate valve 2in 150lb CS RF,each,42
+Valves,VLV.002,Gate valve 4in 150lb CS RF,each,37
+Valves,VLV.003,Gate valve 6in 150lb CS RF,each,9
+Valves,VLV.004,Gate valve 8in 150lb CS RF,each,11
+Valves,VLV.005,Gate valve 10in 300lb CS RF,each,14
+Valves,VLV.006,Ball valve 2in 150lb CS FF,each,12
+Valves,VLV.007,Ball valve 4in 150lb CS FF,each,16
+Valves,VLV.008,Ball valve 6in 150lb CS FF,each,4
+Valves,VLV.009,Check valve 4in 150lb CS RF,each,22
+Valves,VLV.010,Check valve 6in 150lb CS RF,each,14
+Valves,VLV.011,Check valve 8in 300lb CS RF,each,9
+Valves,VLV.012,Globe valve 2in 150lb CS RF,each,6
+Valves,VLV.013,Globe valve 4in 150lb CS RF,each,8
+Valves,VLV.014,Butterfly valve 8in 150lb CS,each,19
+Valves,VLV.015,Butterfly valve 12in 150lb CS,each,15
+Valves,VLV.016,Control valve 4in pneumatic,each,11
+Valves,VLV.017,Control valve 6in pneumatic,each,4
+Valves,VLV.018,Safety relief valve 2in set,each,16
+Valves,VLV.019,Safety relief valve 4in set,each,7
+Valves,VLV.020,Pressure regulator valve 2in,each,15
+Valves,VLV.021,Needle valve half-in SS316,each,23
+Valves,VLV.022,Valve actuator pneumatic 4in,each,5
+Valves,VLV.023,Valve actuator electric 6in,each,3
+Valves,VLV.024,Valve position indicator,each,17
+Valves,VLV.025,Triple offset butterfly 16in,each,5
+Mechanical_Equipment,MCH.001,Centrifugal pump 50m3/h,each,9
+Mechanical_Equipment,MCH.002,Centrifugal pump 100m3/h,each,5
+Mechanical_Equipment,MCH.003,Centrifugal pump 200m3/h,each,6
+Mechanical_Equipment,MCH.004,Vertical turbine pump,each,5
+Mechanical_Equipment,MCH.005,Submersible pump 10m3/h,each,7
+Mechanical_Equipment,MCH.006,Gear pump chemical dosing,each,15
+Mechanical_Equipment,MCH.007,Screw compressor 100kW,each,4
+Mechanical_Equipment,MCH.008,Reciprocating compressor,each,2
+Mechanical_Equipment,MCH.009,Air cooled heat exchanger,each,4
+Mechanical_Equipment,MCH.010,Shell and tube heat exchanger,each,2
+Mechanical_Equipment,MCH.011,Plate heat exchanger,each,8
+Mechanical_Equipment,MCH.012,Vertical pressure vessel,each,1
+Mechanical_Equipment,MCH.013,Horizontal separator vessel,each,1
+Mechanical_Equipment,MCH.014,Filter separator skid,each,1
+Mechanical_Equipment,MCH.015,Pig launcher DN200,each,2
+Mechanical_Equipment,MCH.016,Pig receiver DN200,each,6
+Mechanical_Equipment,MCH.017,Crude oil booster pump,each,2
+Mechanical_Equipment,MCH.018,Flare stack 20m,each,3
+Mechanical_Equipment,MCH.019,Emergency shutdown valve,each,15
+Mechanical_Equipment,MCH.020,Metering skid package,each,1
+Mechanical_Equipment,MCH.021,Chemical injection package,each,4
+Mechanical_Equipment,MCH.022,Sample point connection,each,53
+Mechanical_Equipment,MCH.023,Inline strainer Y-type 4in,each,21
+Mechanical_Equipment,MCH.024,Inline strainer basket 8in,each,8
+Mechanical_Equipment,MCH.025,Silencer exhaust 6in,each,9
+Storage_Tanks,TNK.001,Atmospheric storage tank 500m3,each,3
+Storage_Tanks,TNK.002,Atmospheric storage tank 1000m3,each,1
+Storage_Tanks,TNK.003,Atmospheric storage tank 5000m3,each,3
+Storage_Tanks,TNK.004,Floating roof tank 10000m3,each,1
+Storage_Tanks,TNK.005,Tank shell plate 10mm CS,ton,359
+Storage_Tanks,TNK.006,Tank floor plate 8mm CS,ton,142
+Storage_Tanks,TNK.007,Tank roof structure,ton,36
+Storage_Tanks,TNK.008,Tank nozzle 4in CS,each,87
+Storage_Tanks,TNK.009,Tank nozzle 8in CS,each,23
+Storage_Tanks,TNK.010,Tank manway 600mm,each,2
+Storage_Tanks,TNK.011,Tank internal floating roof,each,2
+Storage_Tanks,TNK.012,Tank foam system,each,4
+Storage_Tanks,TNK.013,Tank grounding system,each,2
+Storage_Tanks,TNK.014,Tank level gauge mechanical,each,8
+Storage_Tanks,TNK.015,Tank staircase and platform,each,1
+Storage_Tanks,TNK.016,Bund lining HDPE membrane,m2,1178
+Storage_Tanks,TNK.017,Secondary containment bund,m3,276
+Storage_Tanks,TNK.018,Tank heating coil,m,55
+Storage_Tanks,TNK.019,Tank mixing agitator,each,5
+Storage_Tanks,TNK.020,Atmospheric vent with flame arrestor,each,2
+Electrical,ELC.001,HV switchgear panel 11kV,each,3
+Electrical,ELC.002,MV switchgear panel 3.3kV,each,4
+Electrical,ELC.003,LV switchboard MCC 415V,each,3
+Electrical,ELC.004,Power transformer 11kV to 415V,each,3
+Electrical,ELC.005,Distribution transformer 250kVA,each,3
+Electrical,ELC.006,Emergency diesel generator 500kVA,each,3
+Electrical,ELC.007,UPS system 30kVA,each,5
+Electrical,ELC.008,Battery charger 24VDC,each,1
+Electrical,ELC.009,Motor control centre panel,each,6
+Electrical,ELC.010,Variable speed drive 75kW,each,8
+Electrical,ELC.011,Variable speed drive 160kW,each,1
+Electrical,ELC.012,Power cable 3x240mm2 XLPE,m,1016
+Electrical,ELC.013,Power cable 3x95mm2 XLPE,m,3905
+Electrical,ELC.014,Power cable 3x35mm2 XLPE,m,1586
+Electrical,ELC.015,Control cable 12C x 1.5mm2,m,2619
+Electrical,ELC.016,Control cable 4C x 2.5mm2,m,1080
+Electrical,ELC.017,Cable tray 300mm galvanised,m,168
+Electrical,ELC.018,Cable tray 600mm galvanised,m,543
+Electrical,ELC.019,Cable ladder 600mm galvanised,m,949
+Electrical,ELC.020,Conduit GI 25mm,m,1211
+Electrical,ELC.021,Conduit GI 50mm,m,211
+Electrical,ELC.022,Junction box EX-proof SS,each,15
+Electrical,ELC.023,Terminal box 20-way IP65,each,67
+Electrical,ELC.024,Earthing cable 70mm2 BC,m,1721
+Electrical,ELC.025,Earth rod 20mm x 2m copper,each,13
+Electrical,ELC.026,Lighting luminaire LED 100W ATEX,each,282
+Electrical,ELC.027,Lighting luminaire LED 250W,each,21
+Electrical,ELC.028,Lighting pole 9m galvanised,each,21
+Electrical,ELC.029,Emergency lighting fitting,each,89
+Electrical,ELC.030,Socket outlet 16A EX-proof,each,65
+Instrumentation_&_Control,INS.001,Control room DCS system,lot,1
+Instrumentation_&_Control,INS.002,DCS IO cabinet,each,5
+Instrumentation_&_Control,INS.003,DCS operator workstation,each,5
+Instrumentation_&_Control,INS.004,Safety PLC system SIL2,lot,2
+Instrumentation_&_Control,INS.005,SCADA server redundant,each,1
+Instrumentation_&_Control,INS.006,Field control station FCS,each,4
+Instrumentation_&_Control,INS.007,Pressure transmitter HART,each,192
+Instrumentation_&_Control,INS.008,Differential pressure transmitter,each,44
+Instrumentation_&_Control,INS.009,Temperature transmitter PT100,each,112
+Instrumentation_&_Control,INS.010,Level transmitter guided wave,each,52
+Instrumentation_&_Control,INS.011,Level gauge magnetic reflex,each,33
+Instrumentation_&_Control,INS.012,Flow meter Coriolis 4in,each,18
+Instrumentation_&_Control,INS.013,Flow meter ultrasonic 6in,each,9
+Instrumentation_&_Control,INS.014,Flow meter turbine 2in,each,5
+Instrumentation_&_Control,INS.015,Orifice plate and flanges 4in,each,17
+Instrumentation_&_Control,INS.016,Thermowell SS316 half-in NPT,each,67
+Instrumentation_&_Control,INS.017,Pressure gauge 100mm dial,each,26
+Instrumentation_&_Control,INS.018,Local indicator temperature,each,96
+Instrumentation_&_Control,INS.019,Gas detector point type ATEX,each,7
+Instrumentation_&_Control,INS.020,Gas detector open path IR,each,20
+Instrumentation_&_Control,INS.021,Flame detector UV IR dual,each,75
+Instrumentation_&_Control,INS.022,Fire and gas panel FGP,each,2
+Instrumentation_&_Control,INS.023,Multicore instrument cable 16P,m,1255
+Instrumentation_&_Control,INS.024,Instrument cable 2P shielded,m,1904
+Instrumentation_&_Control,INS.025,Instrument tubing SS half-in,m,64
+Instrumentation_&_Control,INS.026,Impulse line SS quarter-in OD,m,195
+Instrumentation_&_Control,INS.027,Instrument valve manifold 3-way,each,95
+Instrumentation_&_Control,INS.028,Sun shade SS for transmitter,each,171
+Instrumentation_&_Control,INS.029,Junction box instrument ATEX,each,12
+Instrumentation_&_Control,INS.030,Intrinsic safety barrier DIN,each,68
+Fire_Protection,FPS.001,Firewater ring main 6in CS,m,188
+Fire_Protection,FPS.002,Firewater ring main 8in CS,m,957
+Fire_Protection,FPS.003,Fire hydrant pillar type,each,4
+Fire_Protection,FPS.004,Hose reel cabinet SS,each,29
+Fire_Protection,FPS.005,Monitor foam and water 2000 l/m,each,6
+Fire_Protection,FPS.006,Deluge valve station 6in,each,2
+Fire_Protection,FPS.007,Sprinkler head upright half-in,each,273
+Fire_Protection,FPS.008,Foam system fixed roof tank,each,2
+Fire_Protection,FPS.009,Foam concentrate tank 5000L,each,3
+Fire_Protection,FPS.010,Firewater pump diesel 500m3/h,each,3
+Fire_Protection,FPS.011,Jockey pump electric 10m3/h,each,2
+Fire_Protection,FPS.012,Fire alarm control panel,each,2
+Fire_Protection,FPS.013,Smoke detector optical ATEX,each,74
+Fire_Protection,FPS.014,Heat detector rate of rise,each,21
+Fire_Protection,FPS.015,Manual call point weatherproof,each,78
+Fire_Protection,FPS.016,Alarm sounder beacon combined,each,78
+Fire_Protection,FPS.017,Portable CO2 extinguisher 5kg,each,65
+Fire_Protection,FPS.018,Portable dry powder extinguisher 9kg,each,36
+Fire_Protection,FPS.019,Wheeled CO2 extinguisher 25kg,each,8
+Fire_Protection,FPS.020,Fire blanket 1.8m x 1.2m,each,15
+Insulation_&_Painting,INL.001,Personnel protection insulation 2in,m2,244
+Insulation_&_Painting,INL.002,Personnel protection insulation 4in,m2,146
+Insulation_&_Painting,INL.003,Thermal insulation rockwool 50mm,m2,497
+Insulation_&_Painting,INL.004,Thermal insulation rockwool 75mm,m2,1449
+Insulation_&_Painting,INL.005,Insulation cladding aluminium 0.9mm,m2,1865
+Insulation_&_Painting,INL.006,Insulation cladding SS 0.5mm,m2,412
+Insulation_&_Painting,INL.007,Cold insulation PIR 50mm,m2,483
+Insulation_&_Painting,INL.008,Surface preparation Sa2.5,m2,7235
+Insulation_&_Painting,INL.009,Prime coat inorganic zinc silicate,m2,8151
+Insulation_&_Painting,INL.010,Mid coat epoxy 80 micron,m2,1387
+Insulation_&_Painting,INL.011,Topcoat polyurethane 50 micron,m2,2112
+Insulation_&_Painting,INL.012,Fireproofing intumescent 2hr,m2,81
+Insulation_&_Painting,INL.013,Fireproofing vermiculite 2hr,m2,256
+Insulation_&_Painting,INL.014,Pipe colour coding banding,m,1489
+Insulation_&_Painting,INL.015,Valve and fitting insulation,each,37
+HVAC,HVC.001,Air handling unit 10000 m3/h,each,4
+HVAC,HVC.002,Air handling unit 20000 m3/h,each,2
+HVAC,HVC.003,Split AC unit 18kW,each,7
+HVAC,HVC.004,Package AC unit 50kW,each,9
+HVAC,HVC.005,Ductwork galvanised 500x500,m2,509
+HVAC,HVC.006,Ductwork galvanised 1000x500,m2,193
+HVAC,HVC.007,Supply air diffuser 600x600,each,59
+HVAC,HVC.008,Return air grille 600x300,each,28
+HVAC,HVC.009,Fire damper 600x400,each,19
+HVAC,HVC.010,Volume control damper 600x400,each,31
+HVAC,HVC.011,Exhaust fan centrifugal 5000 m3/h,each,4
+HVAC,HVC.012,Extract fan ATEX zone 1,each,2
+HVAC,HVC.013,Pressurisation fan 2000 m3/h,each,8
+HVAC,HVC.014,Chilled water pipe 4in insulated,m,433
+HVAC,HVC.015,Refrigerant pipe 7/8in copper,m,70
+Buildings_&_Facilities,BLD.001,Modular office building 10m x 6m,each,1
+Buildings_&_Facilities,BLD.002,Control room building structure,each,3
+Buildings_&_Facilities,BLD.003,Substation building 8m x 5m,each,5
+Buildings_&_Facilities,BLD.004,Guard house 4m x 4m,each,1
+Buildings_&_Facilities,BLD.005,Workshop building 20m x 10m,each,1
+Buildings_&_Facilities,BLD.006,Warehouse building 30m x 15m,each,1
+Buildings_&_Facilities,BLD.007,Roof sheeting Colorbond 0.42mm,m2,781
+Buildings_&_Facilities,BLD.008,Wall cladding sandwich panel 75mm,m2,932
+Buildings_&_Facilities,BLD.009,Raised access flooring 600x600,m2,298
+Buildings_&_Facilities,BLD.010,Suspended ceiling grid 600x600,m2,296
+Buildings_&_Facilities,BLD.011,Partition wall 90mm stud,m2,268
+Buildings_&_Facilities,BLD.012,Hollow core door 900x2100,each,29
+Buildings_&_Facilities,BLD.013,Fire door 90min 900x2100,each,14
+Buildings_&_Facilities,BLD.014,Window aluminium double glaze,each,5
+Buildings_&_Facilities,BLD.015,Toilet and ablution block,each,2
+Buildings_&_Facilities,BLD.016,Amenity building 50 person,each,2
+Buildings_&_Facilities,BLD.017,Floor tiling ceramic 300x300,m2,51
+Buildings_&_Facilities,BLD.018,Painting interior emulsion,m2,899
+Buildings_&_Facilities,BLD.019,Plumbing sanitary fittings,lot,3
+Buildings_&_Facilities,BLD.020,Kitchen equipment commercial,lot,2
+Telecommunications,TEL.001,PABX telephone system,lot,2
+Telecommunications,TEL.002,IP telephone handset,each,59
+Telecommunications,TEL.003,CCTV camera IP PTZ outdoor,each,37
+Telecommunications,TEL.004,CCTV camera IP fixed dome,each,67
+Telecommunications,TEL.005,NVR recorder 64 channel,each,2
+Telecommunications,TEL.006,CCTV monitor 32 inch,each,4
+Telecommunications,TEL.007,Network switch 24 port managed,each,5
+Telecommunications,TEL.008,Fibre optic cable SM 12 core,m,1883
+Telecommunications,TEL.009,Fibre optic patch panel 24 port,each,1
+Telecommunications,TEL.010,Cat6 cable UTP 4 pair,m,4844
+Telecommunications,TEL.011,Access control reader prox card,each,25
+Telecommunications,TEL.012,PA public address amplifier,each,5
+Telecommunications,TEL.013,PA speaker weatherproof 15W,each,12
+Telecommunications,TEL.014,UHF radio repeater station,each,3
+Telecommunications,TEL.015,UHF portable radio ATEX,each,3
+Telecommunications,TEL.016,Satellite VSAT terminal,each,1
+Telecommunications,TEL.017,Server rack 42U,each,5
+Telecommunications,TEL.018,Network UPS 6kVA,each,4
+Telecommunications,TEL.019,Fibre optic splice closure,each,37
+Telecommunications,TEL.020,CCTV pole 6m galvanised,each,18
+Commissioning_&_Testing,COM.001,Hydrostatic pressure test 6in,m,100
+Commissioning_&_Testing,COM.002,Hydrostatic pressure test 8in,m,49
+Commissioning_&_Testing,COM.003,Pneumatic leak test 2in,m,540
+Commissioning_&_Testing,COM.004,Radiographic examination weld,each,61
+Commissioning_&_Testing,COM.005,Ultrasonic examination weld,each,115
+Commissioning_&_Testing,COM.006,Magnetic particle inspection,each,55
+Commissioning_&_Testing,COM.007,Dye penetrant inspection,each,324
+Commissioning_&_Testing,COM.008,Pre-commissioning flushing,lot,1
+Commissioning_&_Testing,COM.009,Chemical cleaning and passivation,lot,2
+Commissioning_&_Testing,COM.010,Instrument loop check,each,226
+Commissioning_&_Testing,COM.011,Functional test control valve,each,20
+Commissioning_&_Testing,COM.012,ESD valve stroke test,each,41
+Commissioning_&_Testing,COM.013,Fire and gas system test,lot,1
+Commissioning_&_Testing,COM.014,Pump performance test site,each,10
+Commissioning_&_Testing,COM.015,Compressor performance test,each,1
+Commissioning_&_Testing,COM.016,Insulation resistance test cable,each,337
+Commissioning_&_Testing,COM.017,Protection relay test,each,10
+Commissioning_&_Testing,COM.018,Tank calibration and strapping,each,4
+Commissioning_&_Testing,COM.019,HAZOP review closeout action,each,47
+Commissioning_&_Testing,COM.020,Commissioning spare parts kit,lot,5
+Utilities,UTL.001,Instrument air compressor 10 bar,each,3
+Utilities,UTL.002,Instrument air dryer desiccant,each,3
+Utilities,UTL.003,Instrument air receiver 1000L,each,2
+Utilities,UTL.004,Utility air outlet half-in BSP,each,90
+Utilities,UTL.005,Potable water treatment package,each,3
+Utilities,UTL.006,Potable water storage tank 50m3,each,3
+Utilities,UTL.007,Water well pump submersible,each,2
+Utilities,UTL.008,Sewage treatment plant 50 EP,each,2
+Utilities,UTL.009,Sewage pump submersible,each,4
+Utilities,UTL.010,Oily water separator 5 m3/h,each,2
+Utilities,UTL.011,Closed drain sump and pump,each,6
+Utilities,UTL.012,Open drain collection pit,each,5
+Utilities,UTL.013,Nitrogen generation skid,each,2
+Utilities,UTL.014,Diesel fuel storage tank 10m3,each,3
+Utilities,UTL.015,Fuel transfer pump 2 m3/h,each,1
+Utilities,UTL.016,Chemical storage area bunded,each,1
+Utilities,UTL.017,Overhead crane 5 ton EOT,each,4
+Utilities,UTL.018,Monorail hoist 2 ton,each,2
+Utilities,UTL.019,Eyewash and shower station,each,4
+Utilities,UTL.020,Spill kit trolley large,each,19
+HSE_&_Safety,HSE.001,Safety shower and eyewash combo,each,8
+HSE_&_Safety,HSE.002,Safety sign photoluminescent,each,139
+HSE_&_Safety,HSE.003,First aid cabinet wall mount,each,10
+HSE_&_Safety,HSE.004,Stretcher and first aid kit,each,4
+HSE_&_Safety,HSE.005,Defibrillator AED,each,3
+HSE_&_Safety,HSE.006,Wind sock and pole 6m,each,1
+HSE_&_Safety,HSE.007,Muster point assembly sign,each,5
+HSE_&_Safety,HSE.008,Speed bump rubber 1.8m,each,16
+HSE_&_Safety,HSE.009,Convex safety mirror 800mm,each,11
+HSE_&_Safety,HSE.010,Welfare container 20ft fitted,each,2
+HSE_&_Safety,HSE.011,PPE storage cabinet,each,16
+HSE_&_Safety,HSE.012,Breathing apparatus BA set,each,19
+HSE_&_Safety,HSE.013,Gas monitor personal 4-gas,each,50
+HSE_&_Safety,HSE.014,Noise barrier acoustic panel,m2,97
+HSE_&_Safety,HSE.015,Vibration isolation pad pump,each,18
+Civil_&_Earthworks,CEW.021,Gravel sub-base 300mm thick - Wellpad 1,m2,6460
+Steel_Structures,STL.021,Steel monorail beam - Train 1,m,97
+Steel_Structures,STL.022,Davit arm for maintenance - Train 1,each,14
+Telecommunications,TEL.021,Cat6 cable UTP 4 pair - Train 3,m,5898
+Valves,VLV.026,Gate valve 10in 300lb CS RF - South Battery,each,14
+Mechanical_Equipment,MCH.026,Vertical turbine pump - Area B,each,2
+Instrumentation_&_Control,INS.031,Pressure gauge 100mm dial - South Battery,each,14
+Electrical,ELC.031,HV switchgear panel 11kV - Train 1,each,3
+Mechanical_Equipment,MCH.027,Shell and tube heat exchanger - Train 2,each,2
+Buildings_&_Facilities,BLD.021,Substation building 8m x 5m - Slug Catcher Area,each,5
+Steel_Structures,STL.023,Miscellaneous steelwork - Area C,ton,4
+Utilities,UTL.021,Diesel fuel storage tank 10m3 - Train 1,each,3
+Electrical,ELC.032,Conduit GI 25mm - Train 1,m,1125
+Concrete_Works,CON.021,Reinforced concrete foundation - Wellpad 1,m3,539
+Concrete_Works,CON.022,Lean concrete blinding 50mm - Wellpad 3,m3,23
+Mechanical_Equipment,MCH.028,Centrifugal pump 200m3/h - Area D,each,5
+Buildings_&_Facilities,BLD.022,Roof sheeting Colorbond 0.42mm - Slug Catcher Area,m2,1151
+Piping,PIP.041,CS flange RFWN 8in 300lb CS - North Battery,each,133
+Piping,PIP.042,Spring hanger variable 4in - Slug Catcher Area,each,3
+Electrical,ELC.033,HV switchgear panel 11kV - Slug Catcher Area,each,3
+Mechanical_Equipment,MCH.029,Centrifugal pump 200m3/h - South Battery,each,3
+Utilities,UTL.022,Spill kit trolley large - Area D,each,16
+Civil_&_Earthworks,CEW.022,Slope stabilisation shotcrete - Utilities Area,m2,962
+Fire_Protection,FPS.021,Deluge valve station 6in - Wellpad 3,each,1
+Valves,VLV.027,Control valve 6in pneumatic - North Battery,each,2
+Piping,PIP.043,HDPE pipe DN110 SDR11 - Manifold Area,m,684
+Concrete_Works,CON.023,Rebar supply and fix 32mm - South Battery,ton,77
+Insulation_&_Painting,INL.016,Topcoat polyurethane 50 micron - Manifold Area,m2,2491
+HVAC,HVC.016,Volume control damper 600x400 - Wellpad 2,each,44
+Steel_Structures,STL.024,Steel access platform - South Battery,m2,108
+Mechanical_Equipment,MCH.030,Plate heat exchanger - Area B,each,4
+Instrumentation_&_Control,INS.032,Multicore instrument cable 16P - Wellpad 3,m,1541
+Storage_Tanks,TNK.021,Tank internal floating roof - Slug Catcher Area,each,2
+Insulation_&_Painting,INL.017,Fireproofing intumescent 2hr - Area D,m2,71
+Buildings_&_Facilities,BLD.023,Amenity building 50 person - Train 3,each,1
+HSE_&_Safety,HSE.016,First aid cabinet wall mount - Slug Catcher Area,each,5
+HVAC,HVC.017,Exhaust fan centrifugal 5000 m3/h - Train 3,each,3
+Concrete_Works,CON.024,Rebar supply and fix 32mm - Wellpad 2,ton,102
+Commissioning_&_Testing,COM.021,Commissioning spare parts kit - Area D,lot,6
+Storage_Tanks,TNK.022,Floating roof tank 10000m3 - Wellpad 1,each,1
+Storage_Tanks,TNK.023,Tank heating coil - Manifold Area,m,65
+Buildings_&_Facilities,BLD.024,Guard house 4m x 4m - Train 1,each,0
+Utilities,UTL.023,Instrument air compressor 10 bar - Manifold Area,each,3
+Piping,PIP.044,Pipe support guide CS 8in - Wellpad 1,each,154
+Civil_&_Earthworks,CEW.023,Topsoil strip and stockpile - Wellpad 1,m3,1111
+Instrumentation_&_Control,INS.033,Flame detector UV IR dual - Wellpad 2,each,72
+Instrumentation_&_Control,INS.034,Instrument valve manifold 3-way - Train 3,each,96
+Piping,PIP.045,Gasket spiral wound 6in 150lb - Area C,each,148
+Commissioning_&_Testing,COM.022,Commissioning spare parts kit - Wellpad 2,lot,2
+Valves,VLV.028,Needle valve half-in SS316 - Wellpad 1,each,16
+Valves,VLV.029,Gate valve 4in 150lb CS RF - Train 1,each,19
+Mechanical_Equipment,MCH.031,Centrifugal pump 50m3/h - Utilities Area,each,10
+Concrete_Works,CON.025,Expansion joint 20mm - Export Pump Area,m,204
+Commissioning_&_Testing,COM.023,Pneumatic leak test 2in - Train 3,m,657
+Electrical,ELC.034,Lighting luminaire LED 250W - Utilities Area,each,18
+Piping,PIP.046,CS reducer 6x4in BW - Area A,each,73
+Steel_Structures,STL.025,Davit arm for maintenance - Slug Catcher Area,each,13
+Utilities,UTL.024,Overhead crane 5 ton EOT - Export Pump Area,each,2
+Mechanical_Equipment,MCH.032,Centrifugal pump 200m3/h - Area D,each,5
+Fire_Protection,FPS.022,Foam system fixed roof tank - Wellpad 2,each,2
+Instrumentation_&_Control,INS.035,Instrument valve manifold 3-way - Slug Catcher Area,each,126
+Buildings_&_Facilities,BLD.025,Modular office building 10m x 6m - Export Pump Area,each,1
+Fire_Protection,FPS.023,Heat detector rate of rise - Export Pump Area,each,15
+Mechanical_Equipment,MCH.033,Centrifugal pump 100m3/h - South Battery,each,6
+HVAC,HVC.018,Air handling unit 20000 m3/h - Utilities Area,each,2
+Mechanical_Equipment,MCH.034,Pig receiver DN200 - Export Pump Area,each,3
+Mechanical_Equipment,MCH.035,Sample point connection - North Battery,each,40
+Storage_Tanks,TNK.024,Tank level gauge mechanical - Area C,each,5
+Valves,VLV.030,Safety relief valve 4in set - Manifold Area,each,8
+HSE_&_Safety,HSE.017,Safety sign photoluminescent - Train 3,each,78
+Instrumentation_&_Control,INS.036,Temperature transmitter PT100 - Wellpad 2,each,116
+Instrumentation_&_Control,INS.037,Flow meter ultrasonic 6in - Area B,each,6
+Instrumentation_&_Control,INS.038,Thermowell SS316 half-in NPT - Manifold Area,each,94
+Buildings_&_Facilities,BLD.026,Kitchen equipment commercial - Area A,lot,2
+Buildings_&_Facilities,BLD.027,Toilet and ablution block - Manifold Area,each,1
+Electrical,ELC.035,Variable speed drive 160kW - Wellpad 1,each,1
+Instrumentation_&_Control,INS.039,Orifice plate and flanges 4in - North Battery,each,16
+Mechanical_Equipment,MCH.036,Pig launcher DN200 - Slug Catcher Area,each,1
+Electrical,ELC.036,Socket outlet 16A EX-proof - Wellpad 2,each,75
+Instrumentation_&_Control,INS.040,Differential pressure transmitter - Train 2,each,58
+Piping,PIP.047,CS pipe 12in SCH40 seamless - Area A,m,581
+Telecommunications,TEL.022,CCTV camera IP fixed dome - Area A,each,39
+Instrumentation_&_Control,INS.041,Gas detector open path IR - Train 1,each,27
+Piping,PIP.048,Pipe spool fabrication CS 6in - Area B,m,148
+Storage_Tanks,TNK.025,Tank heating coil - Train 3,m,52
+Electrical,ELC.037,LV switchboard MCC 415V - Manifold Area,each,2
+Instrumentation_&_Control,INS.042,Thermowell SS316 half-in NPT - South Battery,each,89
+Fire_Protection,FPS.024,Jockey pump electric 10m3/h - Area A,each,2
+Concrete_Works,CON.026,Concrete wall 250mm - Wellpad 3,m3,169
+Concrete_Works,CON.027,Rebar supply and fix 32mm - Area B,ton,114
+Mechanical_Equipment,MCH.037,Centrifugal pump 100m3/h - Train 3,each,6
+Telecommunications,TEL.023,Fibre optic splice closure - Train 1,each,27
+Fire_Protection,FPS.025,Smoke detector optical ATEX - Area D,each,78
+Valves,VLV.031,Globe valve 2in 150lb CS RF - Export Pump Area,each,7
+Electrical,ELC.038,Cable ladder 600mm galvanised - Train 2,m,1049
+HSE_&_Safety,HSE.018,Speed bump rubber 1.8m - Area D,each,20
+Piping,PIP.049,CS studbolt set 4in 150lb - Wellpad 1,set,71
+Civil_&_Earthworks,CEW.024,Temporary site hoarding 2m - Wellpad 1,m,71
+Electrical,ELC.039,Terminal box 20-way IP65 - Manifold Area,each,96
+Valves,VLV.032,Gate valve 4in 150lb CS RF - Area C,each,40
+Commissioning_&_Testing,COM.024,Hydrostatic pressure test 8in - North Battery,m,29
+Storage_Tanks,TNK.026,Tank shell plate 10mm CS - Area D,ton,465
+Buildings_&_Facilities,BLD.028,Suspended ceiling grid 600x600 - Area B,m2,250
+Instrumentation_&_Control,INS.043,Gas detector open path IR - Wellpad 3,each,11
+Commissioning_&_Testing,COM.025,ESD valve stroke test - Wellpad 2,each,21
+Instrumentation_&_Control,INS.044,Thermowell SS316 half-in NPT - Utilities Area,each,40
+Electrical,ELC.040,Control cable 4C x 2.5mm2 - Export Pump Area,m,1303
+Instrumentation_&_Control,INS.045,Multicore instrument cable 16P - Train 2,m,1548
+Commissioning_&_Testing,COM.026,Pump performance test site - South Battery,each,11
+HVAC,HVC.019,Exhaust fan centrifugal 5000 m3/h - Utilities Area,each,3
+HSE_&_Safety,HSE.019,Vibration isolation pad pump - South Battery,each,14
+Mechanical_Equipment,MCH.038,Centrifugal pump 50m3/h - Area C,each,7
+Fire_Protection,FPS.026,Firewater ring main 6in CS - North Battery,m,235
+Buildings_&_Facilities,BLD.029,Hollow core door 900x2100 - Manifold Area,each,24
+Insulation_&_Painting,INL.018,Thermal insulation rockwool 75mm - Wellpad 2,m2,987
+Valves,VLV.033,Check valve 4in 150lb CS RF - Wellpad 3,each,28
+Electrical,ELC.041,Distribution transformer 250kVA - South Battery,each,4
+Utilities,UTL.025,Spill kit trolley large - South Battery,each,20
+Insulation_&_Painting,INL.019,Valve and fitting insulation - Train 3,each,21
+HSE_&_Safety,HSE.020,Convex safety mirror 800mm - Slug Catcher Area,each,10
+Valves,VLV.034,Valve position indicator - Utilities Area,each,19
+Insulation_&_Painting,INL.020,Personnel protection insulation 4in - Export Pump Area,m2,188
+Steel_Structures,STL.026,Steel staircase - Wellpad 1,each,8
+Utilities,UTL.026,Fuel transfer pump 2 m3/h - North Battery,each,0
+Buildings_&_Facilities,BLD.030,Painting interior emulsion - Wellpad 3,m2,874
+HVAC,HVC.020,Supply air diffuser 600x600 - Wellpad 3,each,54
+Buildings_&_Facilities,BLD.031,Control room building structure - Wellpad 2,each,2
+Fire_Protection,FPS.027,Fire hydrant pillar type - South Battery,each,3
+Valves,VLV.035,Safety relief valve 4in set - Area D,each,8
+Storage_Tanks,TNK.027,Tank foam system - Area D,each,4
+Utilities,UTL.027,Diesel fuel storage tank 10m3 - Train 2,each,2
+Fire_Protection,FPS.028,Portable dry powder extinguisher 9kg - South Battery,each,44
+HVAC,HVC.021,Package AC unit 50kW - Wellpad 1,each,13
+Piping,PIP.050,HDPE pipe DN200 SDR11 - Wellpad 1,m,437
+Piping,PIP.051,Flexible hose SS 2in 600mm - Wellpad 1,each,20
+HVAC,HVC.022,Fire damper 600x400 - Train 1,each,14
+Concrete_Works,CON.028,Precast concrete plank - Wellpad 1,m2,1199
+Piping,PIP.052,CS pipe 10in SCH40 seamless - Utilities Area,m,724
+Civil_&_Earthworks,CEW.025,Asphalt paving 75mm - Wellpad 1,m2,1398
+Instrumentation_&_Control,INS.046,Impulse line SS quarter-in OD - Wellpad 2,m,133
+Concrete_Works,CON.029,Concrete wall 250mm - South Battery,m3,337
+Fire_Protection,FPS.029,Manual call point weatherproof - Area D,each,103
+Instrumentation_&_Control,INS.047,Field control station FCS - Utilities Area,each,2
+Commissioning_&_Testing,COM.027,Pneumatic leak test 2in - Area B,m,351
+Buildings_&_Facilities,BLD.032,Raised access flooring 600x600 - Wellpad 1,m2,174
+Mechanical_Equipment,MCH.039,Centrifugal pump 200m3/h - Area D,each,6
+Instrumentation_&_Control,INS.048,Flow meter turbine 2in - North Battery,each,6
+Electrical,ELC.042,Earth rod 20mm x 2m copper - Export Pump Area,each,18
+Storage_Tanks,TNK.028,Atmospheric storage tank 5000m3 - Slug Catcher Area,each,2
+Telecommunications,TEL.024,Network UPS 6kVA - Area B,each,4
+Steel_Structures,STL.027,Structural steel fabrication - Train 3,ton,476
+Mechanical_Equipment,MCH.040,Plate heat exchanger - Area C,each,5
+Piping,PIP.053,Pipe support shoe CS 6in - Area C,each,235
+Instrumentation_&_Control,INS.049,Level transmitter guided wave - Export Pump Area,each,61
+Fire_Protection,FPS.030,Jockey pump electric 10m3/h - Wellpad 1,each,1
+Mechanical_Equipment,MCH.041,Inline strainer Y-type 4in - Wellpad 1,each,25
+Fire_Protection,FPS.031,Fire hydrant pillar type - Area C,each,4
+Mechanical_Equipment,MCH.042,Plate heat exchanger - Train 3,each,7
+HVAC,HVC.023,Chilled water pipe 4in insulated - North Battery,m,496
+Mechanical_Equipment,MCH.043,Vertical pressure vessel - Train 1,each,0
+Piping,PIP.054,CS studbolt set 6in 150lb - Wellpad 1,set,198
+Buildings_&_Facilities,BLD.033,Hollow core door 900x2100 - Wellpad 1,each,27
+Fire_Protection,FPS.032,Firewater pump diesel 500m3/h - Wellpad 1,each,3
+Mechanical_Equipment,MCH.044,Pig launcher DN200 - Utilities Area,each,1
+Telecommunications,TEL.025,Network switch 24 port managed - Area B,each,6
+Storage_Tanks,TNK.029,Bund lining HDPE membrane - South Battery,m2,619
+Valves,VLV.036,Safety relief valve 2in set - Area A,each,23
+Utilities,UTL.028,Potable water treatment package - South Battery,each,3
+Piping,PIP.055,Pipe support guide CS 8in - Utilities Area,each,173
+Instrumentation_&_Control,INS.050,Instrument valve manifold 3-way - South Battery,each,64
+Buildings_&_Facilities,BLD.034,Kitchen equipment commercial - Slug Catcher Area,lot,2
+Insulation_&_Painting,INL.021,Personnel protection insulation 4in - Area C,m2,141
+Instrumentation_&_Control,INS.051,Level transmitter guided wave - Wellpad 2,each,42
+Steel_Structures,STL.028,Steel monorail beam - Train 2,m,105
+Utilities,UTL.029,Chemical storage area bunded - Utilities Area,each,0
+Instrumentation_&_Control,INS.052,Field control station FCS - Area B,each,3
+Storage_Tanks,TNK.030,Tank foam system - South Battery,each,3
+Instrumentation_&_Control,INS.053,Pressure transmitter HART - Area A,each,222
+HVAC,HVC.024,Pressurisation fan 2000 m3/h - Export Pump Area,each,7
+Piping,PIP.056,Piping hydrostatic test 6in - Wellpad 3,m,209
+Insulation_&_Painting,INL.022,Insulation cladding SS 0.5mm - Export Pump Area,m2,519
+Valves,VLV.037,Gate valve 10in 300lb CS RF - South Battery,each,14
+Mechanical_Equipment,MCH.045,Inline strainer Y-type 4in - Export Pump Area,each,28
+Fire_Protection,FPS.033,Wheeled CO2 extinguisher 25kg - Area D,each,4
+Commissioning_&_Testing,COM.028,Pneumatic leak test 2in - North Battery,m,653
+Storage_Tanks,TNK.031,Tank manway 600mm - Area A,each,2
+Steel_Structures,STL.029,Steel staircase - North Battery,each,17
+Steel_Structures,STL.030,Steel coaming 150mm - Export Pump Area,m,437
+Commissioning_&_Testing,COM.029,ESD valve stroke test - Train 1,each,40
+HSE_&_Safety,HSE.021,Muster point assembly sign - Wellpad 1,each,5
+Mechanical_Equipment,MCH.046,Pig launcher DN200 - Slug Catcher Area,each,2
+Fire_Protection,FPS.034,Fire alarm control panel - North Battery,each,1
+Piping,PIP.057,CS tee equal 6in BW - Manifold Area,each,11
+Telecommunications,TEL.026,Network switch 24 port managed - Train 1,each,6
+Mechanical_Equipment,MCH.047,Crude oil booster pump - Slug Catcher Area,each,1
+Insulation_&_Painting,INL.023,Mid coat epoxy 80 micron - South Battery,m2,1831
+Mechanical_Equipment,MCH.048,Metering skid package - Wellpad 1,each,1
+Buildings_&_Facilities,BLD.035,Floor tiling ceramic 300x300 - Utilities Area,m2,69
+Instrumentation_&_Control,INS.054,Junction box instrument ATEX - Utilities Area,each,10
+Buildings_&_Facilities,BLD.036,Substation building 8m x 5m - Manifold Area,each,4
+Storage_Tanks,TNK.032,Tank staircase and platform - Train 3,each,1
+Valves,VLV.038,Valve actuator electric 6in - Manifold Area,each,2
+Instrumentation_&_Control,INS.055,Level gauge magnetic reflex - Area B,each,26
+Fire_Protection,FPS.035,Smoke detector optical ATEX - Manifold Area,each,65
+Commissioning_&_Testing,COM.030,Commissioning spare parts kit - Train 1,lot,4
+Civil_&_Earthworks,CEW.026,Retaining wall mass concrete - Train 1,m3,308
+Telecommunications,TEL.027,CCTV camera IP PTZ outdoor - Wellpad 2,each,50
+Instrumentation_&_Control,INS.056,Impulse line SS quarter-in OD - Area D,m,200
+Fire_Protection,FPS.036,Hose reel cabinet SS - Area A,each,35
+Instrumentation_&_Control,INS.057,Level transmitter guided wave - Train 1,each,29
+Mechanical_Equipment,MCH.049,Plate heat exchanger - Wellpad 2,each,8
+Instrumentation_&_Control,INS.058,Safety PLC system SIL2 - Area C,lot,2
+Utilities,UTL.030,Potable water storage tank 50m3 - Manifold Area,each,4
+Commissioning_&_Testing,COM.031,Hydrostatic pressure test 6in - Utilities Area,m,137
+Civil_&_Earthworks,CEW.027,Retaining wall mass concrete - Area C,m3,226
+Utilities,UTL.031,Closed drain sump and pump - Wellpad 1,each,8
+Steel_Structures,STL.031,Handrail and kickplate - Slug Catcher Area,m,1160
+Commissioning_&_Testing,COM.032,Ultrasonic examination weld - Area D,each,108
+Utilities,UTL.032,Chemical storage area bunded - Wellpad 1,each,1
+Concrete_Works,CON.030,Concrete slab on grade 200mm - Wellpad 2,m3,2029
+Storage_Tanks,TNK.033,Atmospheric storage tank 500m3 - Wellpad 3,each,2
+Piping,PIP.058,CS tee equal 6in BW - North Battery,each,17
+Buildings_&_Facilities,BLD.037,Suspended ceiling grid 600x600 - Train 2,m2,198
+Steel_Structures,STL.032,Primary steel columns HD section - Manifold Area,ton,67
+Valves,VLV.039,Valve position indicator - Utilities Area,each,24
+Piping,PIP.059,CS tee equal 4in BW - North Battery,each,32
+Mechanical_Equipment,MCH.050,Gear pump chemical dosing - Export Pump Area,each,11
+Civil_&_Earthworks,CEW.028,Gravel sub-base 300mm thick - Export Pump Area,m2,6322
+Utilities,UTL.033,Water well pump submersible - Train 2,each,1
+Electrical,ELC.043,UPS system 30kVA - Wellpad 1,each,5
+Instrumentation_&_Control,INS.059,Local indicator temperature - South Battery,each,91
+Storage_Tanks,TNK.034,Tank shell plate 10mm CS - Train 3,ton,538
+Fire_Protection,FPS.037,Portable dry powder extinguisher 9kg - Area D,each,26
+Buildings_&_Facilities,BLD.038,Fire door 90min 900x2100 - Wellpad 3,each,15
+Utilities,UTL.034,Eyewash and shower station - Wellpad 1,each,2
+Commissioning_&_Testing,COM.033,Tank calibration and strapping - Manifold Area,each,3
+Buildings_&_Facilities,BLD.039,Suspended ceiling grid 600x600 - Area B,m2,417
+Insulation_&_Painting,INL.024,Insulation cladding aluminium 0.9mm - Wellpad 1,m2,2379
+Valves,VLV.040,Safety relief valve 2in set - Wellpad 3,each,11
+Piping,PIP.060,Piping flushing and cleaning - South Battery,lot,9
+HSE_&_Safety,HSE.022,Welfare container 20ft fitted - Train 1,each,2
+Commissioning_&_Testing,COM.034,Hydrostatic pressure test 8in - Area B,m,39
+Instrumentation_&_Control,INS.060,Impulse line SS quarter-in OD - Area B,m,210
+HSE_&_Safety,HSE.023,Vibration isolation pad pump - Train 1,each,10
+Storage_Tanks,TNK.035,Atmospheric storage tank 1000m3 - Wellpad 2,each,1
+Piping,PIP.061,Pipe support guide CS 8in - Train 3,each,107
+HVAC,HVC.025,Extract fan ATEX zone 1 - Wellpad 3,each,2
+Mechanical_Equipment,MCH.051,Pig launcher DN200 - Train 2,each,1
+Fire_Protection,FPS.038,Portable CO2 extinguisher 5kg - Wellpad 1,each,81
+Electrical,ELC.044,Power transformer 11kV to 415V - Area D,each,2
+Concrete_Works,CON.031,Waterstop PVC 200mm - Train 1,m,203
+Valves,VLV.041,Control valve 4in pneumatic - Manifold Area,each,16
+Buildings_&_Facilities,BLD.040,Warehouse building 30m x 15m - Wellpad 3,each,0
+Instrumentation_&_Control,INS.061,DCS operator workstation - Area A,each,3
+Piping,PIP.062,CS pipe 8in SCH40 seamless - Export Pump Area,m,1312
+Utilities,UTL.035,Potable water treatment package - South Battery,each,3
+Commissioning_&_Testing,COM.035,Dye penetrant inspection - Wellpad 3,each,197
+Valves,VLV.042,Pressure regulator valve 2in - Utilities Area,each,7
+Buildings_&_Facilities,BLD.041,Wall cladding sandwich panel 75mm - Wellpad 2,m2,1319
+Valves,VLV.043,Butterfly valve 8in 150lb CS - Area C,each,21
+Fire_Protection,FPS.039,Foam system fixed roof tank - Wellpad 1,each,2
+Steel_Structures,STL.033,Steel access platform - Train 1,m2,87
+Civil_&_Earthworks,CEW.029,Slope stabilisation shotcrete - Wellpad 1,m2,1992
+Steel_Structures,STL.034,Steel access platform - Area D,m2,117
+HVAC,HVC.026,Exhaust fan centrifugal 5000 m3/h - Train 1,each,3
+Electrical,ELC.045,Conduit GI 25mm - Slug Catcher Area,m,1316
+HSE_&_Safety,HSE.024,Gas monitor personal 4-gas - Train 1,each,69
+Commissioning_&_Testing,COM.036,Insulation resistance test cable - Area D,each,449
+Telecommunications,TEL.028,Satellite VSAT terminal - Slug Catcher Area,each,1
+Mechanical_Equipment,MCH.052,Emergency shutdown valve - Area B,each,17
+Valves,VLV.044,Globe valve 2in 150lb CS RF - Export Pump Area,each,5
+Valves,VLV.045,Needle valve half-in SS316 - Wellpad 3,each,13
+Utilities,UTL.036,Open drain collection pit - Wellpad 3,each,5
+Commissioning_&_Testing,COM.037,Functional test control valve - Wellpad 3,each,11
+Mechanical_Equipment,MCH.053,Crude oil booster pump - Train 3,each,2
+Fire_Protection,FPS.040,Fire hydrant pillar type - Area C,each,4
+Commissioning_&_Testing,COM.038,Chemical cleaning and passivation - Area A,lot,1
+Electrical,ELC.046,HV switchgear panel 11kV - North Battery,each,4
+Buildings_&_Facilities,BLD.042,Suspended ceiling grid 600x600 - Train 3,m2,168
+Buildings_&_Facilities,BLD.043,Guard house 4m x 4m - Train 3,each,1
+Valves,VLV.046,Pressure regulator valve 2in - Wellpad 2,each,19
+Telecommunications,TEL.029,CCTV monitor 32 inch - Area A,each,3
+Piping,PIP.063,CS tee equal 6in BW - Train 1,each,17
+Piping,PIP.064,Pipe support guide CS 8in - Area D,each,197
+Civil_&_Earthworks,CEW.030,Temporary site hoarding 2m - Train 1,m,33
+Valves,VLV.047,Valve actuator pneumatic 4in - Wellpad 2,each,2
+Mechanical_Equipment,MCH.054,Plate heat exchanger - Area B,each,5
+Instrumentation_&_Control,INS.062,Thermowell SS316 half-in NPT - Area D,each,83
+Fire_Protection,FPS.041,Heat detector rate of rise - Export Pump Area,each,26
+Insulation_&_Painting,INL.025,Fireproofing vermiculite 2hr - Area D,m2,243
+Valves,VLV.048,Butterfly valve 8in 150lb CS - Area B,each,23
+Commissioning_&_Testing,COM.039,Tank calibration and strapping - Wellpad 1,each,3
+Civil_&_Earthworks,CEW.031,Site clearing and grubbing - Area B,ha,8
+Instrumentation_&_Control,INS.063,Field control station FCS - Slug Catcher Area,each,4
+Insulation_&_Painting,INL.026,Personnel protection insulation 4in - Export Pump Area,m2,83
+Steel_Structures,STL.035,Primary steel beams UC section - Wellpad 2,ton,196
+Concrete_Works,CON.032,Rebar supply and fix 16mm - Train 1,ton,4
+Commissioning_&_Testing,COM.040,Ultrasonic examination weld - Wellpad 2,each,101
+Telecommunications,TEL.030,CCTV monitor 32 inch - Wellpad 1,each,3
+Telecommunications,TEL.031,Cat6 cable UTP 4 pair - Slug Catcher Area,m,2902
+Utilities,UTL.037,Spill kit trolley large - Area D,each,25
+Commissioning_&_Testing,COM.041,Pump performance test site - Train 3,each,9
+Valves,VLV.049,Control valve 6in pneumatic - Slug Catcher Area,each,3
+Fire_Protection,FPS.042,Fire hydrant pillar type - Manifold Area,each,3
+Steel_Structures,STL.036,Ladder with cage - Wellpad 2,m,151
+Utilities,UTL.038,Instrument air compressor 10 bar - South Battery,each,2
+Piping,PIP.065,CS flange RFWN 6in 150lb CS - Utilities Area,each,97
+Steel_Structures,STL.037,Steel bracing system - Area C,ton,5
+Electrical,ELC.047,Conduit GI 50mm - Train 1,m,222
+Telecommunications,TEL.032,PABX telephone system - Wellpad 2,lot,2
+Instrumentation_&_Control,INS.064,Level gauge magnetic reflex - Wellpad 3,each,45
+Instrumentation_&_Control,INS.065,Pressure gauge 100mm dial - Area B,each,38
+Telecommunications,TEL.033,Fibre optic cable SM 12 core - Wellpad 1,m,1603
+Buildings_&_Facilities,BLD.044,Amenity building 50 person - Train 3,each,1
+Fire_Protection,FPS.043,Portable CO2 extinguisher 5kg - North Battery,each,87
+Electrical,ELC.048,Variable speed drive 75kW - Wellpad 3,each,4
+Mechanical_Equipment,MCH.055,Flare stack 20m - North Battery,each,3
+Buildings_&_Facilities,BLD.045,Wall cladding sandwich panel 75mm - Area A,m2,1033
+Commissioning_&_Testing,COM.042,Protection relay test - South Battery,each,5
+Mechanical_Equipment,MCH.056,Pig launcher DN200 - Wellpad 1,each,2
+Electrical,ELC.049,Variable speed drive 75kW - Area A,each,5
+Piping,PIP.066,CS tee equal 4in BW - Manifold Area,each,19
+Commissioning_&_Testing,COM.043,Ultrasonic examination weld - Area A,each,68
+HVAC,HVC.027,Supply air diffuser 600x600 - Train 3,each,51
+Fire_Protection,FPS.044,Fire hydrant pillar type - Wellpad 2,each,2
+Storage_Tanks,TNK.036,Tank manway 600mm - Wellpad 2,each,2
+Buildings_&_Facilities,BLD.046,Partition wall 90mm stud - Area C,m2,370
+Piping,PIP.067,CS flange RFWN 8in 300lb CS - Train 2,each,122
+Concrete_Works,CON.033,Concrete beam - Area C,m3,223
+Commissioning_&_Testing,COM.044,HAZOP review closeout action - Slug Catcher Area,each,46
+Instrumentation_&_Control,INS.066,Instrument valve manifold 3-way - Slug Catcher Area,each,73
+Insulation_&_Painting,INL.027,Fireproofing vermiculite 2hr - Area D,m2,216
+Steel_Structures,STL.038,Modular skid baseframe - Wellpad 1,ton,30
+Telecommunications,TEL.034,CCTV camera IP fixed dome - Utilities Area,each,68
+Storage_Tanks,TNK.037,Tank nozzle 4in CS - Area B,each,62
+Telecommunications,TEL.035,Network switch 24 port managed - Area B,each,2
+Storage_Tanks,TNK.038,Tank shell plate 10mm CS - Train 3,ton,454
+Mechanical_Equipment,MCH.057,Gear pump chemical dosing - Wellpad 1,each,12
+Civil_&_Earthworks,CEW.032,Backfill and compaction - Utilities Area,m3,6242
+Piping,PIP.068,Pipe support guide CS 8in - Train 1,each,149
+HSE_&_Safety,HSE.025,Safety shower and eyewash combo - North Battery,each,8
+Utilities,UTL.039,Instrument air receiver 1000L - Wellpad 3,each,1
+Concrete_Works,CON.034,Reinforced concrete foundation - Slug Catcher Area,m3,323
+Concrete_Works,CON.035,Concrete anchor block - Wellpad 2,each,25
+Buildings_&_Facilities,BLD.047,Window aluminium double glaze - Manifold Area,each,6
+Instrumentation_&_Control,INS.067,Flow meter turbine 2in - Wellpad 1,each,3
+Civil_&_Earthworks,CEW.033,Drainage channel concrete lined - Wellpad 2,m,93
+Telecommunications,TEL.036,Server rack 42U - Export Pump Area,each,6
+Electrical,ELC.050,Control cable 4C x 2.5mm2 - Area C,m,1011
+Steel_Structures,STL.039,Davit arm for maintenance - North Battery,each,17
+Instrumentation_&_Control,INS.068,Field control station FCS - Area C,each,3
+Storage_Tanks,TNK.039,Tank nozzle 8in CS - Wellpad 2,each,16
+Piping,PIP.069,Gasket spiral wound 6in 150lb - Area C,each,190
+Steel_Structures,STL.040,Steel coaming 150mm - Train 3,m,424
+Electrical,ELC.051,Motor control centre panel - Wellpad 3,each,7
+Commissioning_&_Testing,COM.045,Functional test control valve - Train 1,each,14
+Piping,PIP.070,CS tee equal 6in BW - South Battery,each,11
+Telecommunications,TEL.037,Fibre optic patch panel 24 port - Train 1,each,1
+Commissioning_&_Testing,COM.046,Insulation resistance test cable - Area C,each,228
+Commissioning_&_Testing,COM.047,Hydrostatic pressure test 8in - Utilities Area,m,47
+Buildings_&_Facilities,BLD.048,Raised access flooring 600x600 - Export Pump Area,m2,351
+Buildings_&_Facilities,BLD.049,Suspended ceiling grid 600x600 - Wellpad 2,m2,403
+Commissioning_&_Testing,COM.048,Hydrostatic pressure test 8in - Wellpad 2,m,31
+Concrete_Works,CON.036,Rebar supply and fix 20mm - Utilities Area,ton,81
+Storage_Tanks,TNK.040,Tank floor plate 8mm CS - South Battery,ton,154
+Electrical,ELC.052,Variable speed drive 160kW - Area C,each,0
+Fire_Protection,FPS.045,Firewater ring main 8in CS - Area B,m,532
+Mechanical_Equipment,MCH.058,Sample point connection - Area C,each,60
+Steel_Structures,STL.041,Handrail and kickplate - Manifold Area,m,755
+Buildings_&_Facilities,BLD.050,Guard house 4m x 4m - Area B,each,0
+Buildings_&_Facilities,BLD.051,Fire door 90min 900x2100 - Train 3,each,11
+Fire_Protection,FPS.046,Heat detector rate of rise - Train 1,each,30
+Fire_Protection,FPS.047,Firewater ring main 6in CS - Area D,m,246
+Electrical,ELC.053,Emergency diesel generator 500kVA - Area C,each,3
+Piping,PIP.071,Pipe support shoe CS 6in - Area B,each,268
+Instrumentation_&_Control,INS.069,Instrument tubing SS half-in - Export Pump Area,m,65
+Telecommunications,TEL.038,PA speaker weatherproof 15W - Train 2,each,10
+Mechanical_Equipment,MCH.059,Metering skid package - Manifold Area,each,0
+Electrical,ELC.054,Power transformer 11kV to 415V - Area B,each,3
+Commissioning_&_Testing,COM.049,ESD valve stroke test - Wellpad 2,each,23
+Steel_Structures,STL.042,Ladder with cage - Manifold Area,m,128
+HSE_&_Safety,HSE.026,PPE storage cabinet - Train 1,each,13
+Buildings_&_Facilities,BLD.052,Plumbing sanitary fittings - Train 1,lot,4
+Storage_Tanks,TNK.041,Tank nozzle 8in CS - Manifold Area,each,14
+HSE_&_Safety,HSE.027,First aid cabinet wall mount - Area C,each,8
+Electrical,ELC.055,Terminal box 20-way IP65 - Wellpad 2,each,87
+Utilities,UTL.040,Utility air outlet half-in BSP - Area C,each,103
+Instrumentation_&_Control,INS.070,Pressure gauge 100mm dial - Wellpad 3,each,13
+Storage_Tanks,TNK.042,Tank nozzle 8in CS - Train 2,each,33
+Electrical,ELC.056,Distribution transformer 250kVA - Utilities Area,each,2
+Piping,PIP.072,CS elbow 90deg 4in BW - Train 1,each,72
+Steel_Structures,STL.043,Structural steel erection - Area B,ton,37
+Telecommunications,TEL.039,Server rack 42U - Train 1,each,5
+Piping,PIP.073,CS flange RFWN 6in 150lb CS - Train 2,each,117
+Utilities,UTL.041,Fuel transfer pump 2 m3/h - Train 2,each,1
+Concrete_Works,CON.037,Concrete pile cap - Slug Catcher Area,m3,104
+HSE_&_Safety,HSE.028,Convex safety mirror 800mm - North Battery,each,16
+Telecommunications,TEL.040,PA speaker weatherproof 15W - Wellpad 1,each,15
+Instrumentation_&_Control,INS.071,Intrinsic safety barrier DIN - North Battery,each,70
+Storage_Tanks,TNK.043,Tank nozzle 8in CS - Utilities Area,each,32
+Piping,PIP.074,HDPE pipe DN200 SDR11 - Wellpad 3,m,709
+Buildings_&_Facilities,BLD.053,Fire door 90min 900x2100 - Export Pump Area,each,13
+Mechanical_Equipment,MCH.060,Metering skid package - Manifold Area,each,1
+Instrumentation_&_Control,INS.072,Orifice plate and flanges 4in - Train 2,each,22
+Telecommunications,TEL.041,Cat6 cable UTP 4 pair - Train 1,m,6650
+Concrete_Works,CON.038,Concrete wall 250mm - Utilities Area,m3,321
+Buildings_&_Facilities,BLD.054,Guard house 4m x 4m - Area D,each,1
+Insulation_&_Painting,INL.028,Valve and fitting insulation - Area D,each,29
+Piping,PIP.075,CS flange blind 6in 150lb - South Battery,each,47
+Insulation_&_Painting,INL.029,Fireproofing vermiculite 2hr - Train 1,m2,340
+Steel_Structures,STL.044,Handrail and kickplate - North Battery,m,1033
+Electrical,ELC.057,Motor control centre panel - Area A,each,5
+Instrumentation_&_Control,INS.073,DCS operator workstation - Wellpad 3,each,3
+Steel_Structures,STL.045,Primary steel beams UC section - Wellpad 3,ton,128
+Storage_Tanks,TNK.044,Tank level gauge mechanical - Area D,each,10
+Commissioning_&_Testing,COM.050,Fire and gas system test - Wellpad 2,lot,1
+Piping,PIP.076,CS elbow 90deg 4in BW - Area B,each,99
+Fire_Protection,FPS.048,Fire alarm control panel - Train 1,each,2
+Fire_Protection,FPS.049,Jockey pump electric 10m3/h - Export Pump Area,each,2
+Steel_Structures,STL.046,Primary steel columns HD section - Area A,ton,45
+Piping,PIP.077,CS reducer 8x6in BW - Slug Catcher Area,each,24
+Mechanical_Equipment,MCH.061,Inline strainer Y-type 4in - North Battery,each,16
+Concrete_Works,CON.039,Concrete column - North Battery,m3,161
+Telecommunications,TEL.042,Fibre optic splice closure - Export Pump Area,each,20
+Insulation_&_Painting,INL.030,Insulation cladding SS 0.5mm - Area A,m2,466
+Buildings_&_Facilities,BLD.055,Toilet and ablution block - North Battery,each,2
+Mechanical_Equipment,MCH.062,Silencer exhaust 6in - Slug Catcher Area,each,4
+Electrical,ELC.058,Variable speed drive 160kW - North Battery,each,1
+Piping,PIP.078,Pipe spool installation 6in - Area C,m,276
+Electrical,ELC.059,Control cable 12C x 1.5mm2 - Area C,m,3806
+HVAC,HVC.028,Chilled water pipe 4in insulated - Area A,m,385
+Fire_Protection,FPS.050,Jockey pump electric 10m3/h - Area B,each,2
+Electrical,ELC.060,Junction box EX-proof SS - South Battery,each,18
+Electrical,ELC.061,Power cable 3x95mm2 XLPE - Area C,m,3298
+Commissioning_&_Testing,COM.051,Protection relay test - Area D,each,12
+Electrical,ELC.062,HV switchgear panel 11kV - Train 1,each,1
+HVAC,HVC.029,Refrigerant pipe 7/8in copper - Wellpad 2,m,91
+Piping,PIP.079,Pipe support guide CS 8in - Export Pump Area,each,251
+Fire_Protection,FPS.051,Alarm sounder beacon combined - Train 2,each,102
+Concrete_Works,CON.040,Formwork to walls - Export Pump Area,m2,1009
+Valves,VLV.050,Gate valve 8in 150lb CS RF - Area B,each,14
+Concrete_Works,CON.041,Reinforced concrete foundation - Wellpad 2,m3,894
+Insulation_&_Painting,INL.031,Pipe colour coding banding - Manifold Area,m,2217
+HVAC,HVC.030,Chilled water pipe 4in insulated - Utilities Area,m,326
+Commissioning_&_Testing,COM.052,ESD valve stroke test - Train 3,each,32
+Concrete_Works,CON.042,Concrete column - Wellpad 2,m3,136
+Electrical,ELC.063,Cable ladder 600mm galvanised - Slug Catcher Area,m,1318
+Instrumentation_&_Control,INS.074,Impulse line SS quarter-in OD - Manifold Area,m,163
+Piping,PIP.080,Pipe spool installation 6in - Utilities Area,m,321
+Electrical,ELC.064,Cable ladder 600mm galvanised - South Battery,m,1234
+HSE_&_Safety,HSE.029,Gas monitor personal 4-gas - Slug Catcher Area,each,28
+Telecommunications,TEL.043,Fibre optic patch panel 24 port - Train 2,each,1
+Storage_Tanks,TNK.045,Tank staircase and platform - Area D,each,0
+Commissioning_&_Testing,COM.053,HAZOP review closeout action - Wellpad 1,each,37
+Telecommunications,TEL.044,Fibre optic patch panel 24 port - Slug Catcher Area,each,0
+Instrumentation_&_Control,INS.075,Sun shade SS for transmitter - Wellpad 3,each,161
+HSE_&_Safety,HSE.030,Gas monitor personal 4-gas - Wellpad 3,each,55
+Instrumentation_&_Control,INS.076,Multicore instrument cable 16P - South Battery,m,1430
+Concrete_Works,CON.043,Concrete pump sump - Area C,each,22
+Instrumentation_&_Control,INS.077,Differential pressure transmitter - Wellpad 3,each,44
+Utilities,UTL.042,Sewage treatment plant 50 EP - Train 2,each,2
+Piping,PIP.081,CS tee equal 4in BW - Export Pump Area,each,18
+Concrete_Works,CON.044,Rebar supply and fix 20mm - North Battery,ton,109
+Electrical,ELC.065,Cable tray 600mm galvanised - Wellpad 3,m,479
+Buildings_&_Facilities,BLD.056,Partition wall 90mm stud - Area B,m2,296
+Utilities,UTL.043,Sewage treatment plant 50 EP - Export Pump Area,each,2
+Electrical,ELC.066,Conduit GI 50mm - Export Pump Area,m,266
+Buildings_&_Facilities,BLD.057,Window aluminium double glaze - Train 1,each,5
+Instrumentation_&_Control,INS.078,Safety PLC system SIL2 - Wellpad 2,lot,2
+Mechanical_Equipment,MCH.063,Centrifugal pump 200m3/h - Area D,each,3
+Piping,PIP.082,Pipe spool installation 6in - Utilities Area,m,274
+Buildings_&_Facilities,BLD.058,Wall cladding sandwich panel 75mm - Area D,m2,709
+Mechanical_Equipment,MCH.064,Air cooled heat exchanger - Export Pump Area,each,2
+Telecommunications,TEL.045,UHF radio repeater station - Wellpad 1,each,3
+Insulation_&_Painting,INL.032,Personnel protection insulation 4in - Train 3,m2,90
+Concrete_Works,CON.045,Expansion joint 20mm - Export Pump Area,m,150
+HSE_&_Safety,HSE.031,Wind sock and pole 6m - Export Pump Area,each,1
+Utilities,UTL.044,Oily water separator 5 m3/h - Wellpad 2,each,2
+HSE_&_Safety,HSE.032,Stretcher and first aid kit - Area C,each,4
+Mechanical_Equipment,MCH.065,Inline strainer basket 8in - Wellpad 1,each,10
+HSE_&_Safety,HSE.033,Defibrillator AED - Train 2,each,3
+Insulation_&_Painting,INL.033,Topcoat polyurethane 50 micron - North Battery,m2,1312
+Valves,VLV.051,Gate valve 6in 150lb CS RF - Train 1,each,6
+Insulation_&_Painting,INL.034,Thermal insulation rockwool 50mm - Area A,m2,427
+Buildings_&_Facilities,BLD.059,Window aluminium double glaze - Wellpad 3,each,4
+Buildings_&_Facilities,BLD.060,Substation building 8m x 5m - Train 1,each,5
+Steel_Structures,STL.047,Steel grating flooring 25mm - Area C,m2,670
+HSE_&_Safety,HSE.034,Speed bump rubber 1.8m - Utilities Area,each,16
+Instrumentation_&_Control,INS.079,Level transmitter guided wave - Area C,each,32
+Storage_Tanks,TNK.046,Tank grounding system - Area C,each,1
+Utilities,UTL.045,Sewage pump submersible - Wellpad 3,each,2
+Buildings_&_Facilities,BLD.061,Substation building 8m x 5m - Train 2,each,6
+Piping,PIP.083,CS pipe 16in SCH40 LSAW - Slug Catcher Area,m,733
+Concrete_Works,CON.046,Concrete bund wall - Area D,m3,126
+Storage_Tanks,TNK.047,Tank floor plate 8mm CS - Train 2,ton,93
+HSE_&_Safety,HSE.035,Stretcher and first aid kit - North Battery,each,3
+HVAC,HVC.031,Air handling unit 10000 m3/h - Wellpad 1,each,5
+Mechanical_Equipment,MCH.066,Vertical turbine pump - Train 3,each,5
+Buildings_&_Facilities,BLD.062,Substation building 8m x 5m - South Battery,each,3
+Storage_Tanks,TNK.048,Tank floor plate 8mm CS - Area C,ton,142
+Piping,PIP.084,Gasket spiral wound 6in 150lb - Train 1,each,126
+Telecommunications,TEL.046,CCTV pole 6m galvanised - Wellpad 2,each,24
+Buildings_&_Facilities,BLD.063,Raised access flooring 600x600 - Area B,m2,394
+Civil_&_Earthworks,CEW.034,Erosion control matting - Area C,m2,175
+Commissioning_&_Testing,COM.054,Chemical cleaning and passivation - South Battery,lot,2
+Buildings_&_Facilities,BLD.064,Fire door 90min 900x2100 - Slug Catcher Area,each,15
+Civil_&_Earthworks,CEW.035,Site clearing and grubbing - Utilities Area,ha,8
+HVAC,HVC.032,Refrigerant pipe 7/8in copper - Wellpad 1,m,79
+Storage_Tanks,TNK.049,Tank shell plate 10mm CS - Utilities Area,ton,267
+Utilities,UTL.046,Closed drain sump and pump - Manifold Area,each,4
+Concrete_Works,CON.047,Expansion joint 20mm - Area B,m,147
+Instrumentation_&_Control,INS.080,Flow meter ultrasonic 6in - Utilities Area,each,8
+Electrical,ELC.067,Distribution transformer 250kVA - Train 1,each,2
+HSE_&_Safety,HSE.036,Speed bump rubber 1.8m - Wellpad 2,each,19
+Electrical,ELC.068,UPS system 30kVA - Manifold Area,each,3
+Electrical,ELC.069,Conduit GI 25mm - Area D,m,991
+Fire_Protection,FPS.052,Foam concentrate tank 5000L - Area D,each,2
+Mechanical_Equipment,MCH.067,Centrifugal pump 100m3/h - Train 1,each,2
+Mechanical_Equipment,MCH.068,Inline strainer basket 8in - Manifold Area,each,10
+Instrumentation_&_Control,INS.081,Orifice plate and flanges 4in - North Battery,each,24
+Piping,PIP.085,CS flange blind 4in 150lb - Wellpad 2,each,74
+HSE_&_Safety,HSE.037,Welfare container 20ft fitted - Wellpad 2,each,1
+Piping,PIP.086,CS flange blind 4in 150lb - Utilities Area,each,77
+Fire_Protection,FPS.053,Firewater pump diesel 500m3/h - Utilities Area,each,4
+Insulation_&_Painting,INL.035,Insulation cladding aluminium 0.9mm - Area A,m2,1100
+Instrumentation_&_Control,INS.082,DCS IO cabinet - Export Pump Area,each,7
+Valves,VLV.052,Check valve 8in 300lb CS RF - Wellpad 3,each,4
+Mechanical_Equipment,MCH.069,Metering skid package - Utilities Area,each,1
+Commissioning_&_Testing,COM.055,Compressor performance test - Utilities Area,each,0
+Civil_&_Earthworks,CEW.036,Gravel sub-base 300mm thick - Area D,m2,4200
+Mechanical_Equipment,MCH.070,Plate heat exchanger - Wellpad 3,each,10
+Electrical,ELC.070,Cable tray 600mm galvanised - Area B,m,489
+Buildings_&_Facilities,BLD.065,Hollow core door 900x2100 - Train 3,each,25
+Mechanical_Equipment,MCH.071,Inline strainer Y-type 4in - Area C,each,18
+Fire_Protection,FPS.054,Firewater ring main 6in CS - South Battery,m,249
+Telecommunications,TEL.047,CCTV pole 6m galvanised - Area D,each,11
+Steel_Structures,STL.048,Steel pipe rack structure - Manifold Area,ton,62
+Electrical,ELC.071,Power transformer 11kV to 415V - Wellpad 3,each,3
+Valves,VLV.053,Gate valve 4in 150lb CS RF - Manifold Area,each,37
+Concrete_Works,CON.048,Concrete slab on grade 200mm - Area B,m3,997
+Electrical,ELC.072,HV switchgear panel 11kV - Utilities Area,each,3
+Piping,PIP.087,CS reducer 8x6in BW - Train 1,each,33
+Telecommunications,TEL.048,UHF radio repeater station - Wellpad 2,each,1
+Telecommunications,TEL.049,Satellite VSAT terminal - Wellpad 1,each,1
+Insulation_&_Painting,INL.036,Mid coat epoxy 80 micron - Utilities Area,m2,1676
+Storage_Tanks,TNK.050,Floating roof tank 10000m3 - Utilities Area,each,1
+Electrical,ELC.073,Cable ladder 600mm galvanised - Wellpad 2,m,1113
+Instrumentation_&_Control,INS.083,Flow meter turbine 2in - Wellpad 1,each,6
+HSE_&_Safety,HSE.038,Breathing apparatus BA set - Area A,each,20
+Mechanical_Equipment,MCH.072,Plate heat exchanger - North Battery,each,9
+Buildings_&_Facilities,BLD.066,Plumbing sanitary fittings - Utilities Area,lot,2
+Commissioning_&_Testing,COM.056,Pneumatic leak test 2in - Manifold Area,m,349
+Utilities,UTL.047,Sewage pump submersible - North Battery,each,2
+Utilities,UTL.048,Eyewash and shower station - Area D,each,2
+Instrumentation_&_Control,INS.084,Impulse line SS quarter-in OD - Wellpad 2,m,179
+Instrumentation_&_Control,INS.085,Flow meter Coriolis 4in - Train 3,each,16
+Telecommunications,TEL.050,UHF radio repeater station - Utilities Area,each,4
+HSE_&_Safety,HSE.039,Gas monitor personal 4-gas - Area B,each,60
+HVAC,HVC.033,Air handling unit 10000 m3/h - Train 3,each,4
+Commissioning_&_Testing,COM.057,Commissioning spare parts kit - Utilities Area,lot,5
+Storage_Tanks,TNK.051,Tank internal floating roof - Train 2,each,1
+HVAC,HVC.034,Return air grille 600x300 - Wellpad 2,each,29
+Utilities,UTL.049,Water well pump submersible - South Battery,each,2
+Piping,PIP.088,HDPE pipe DN110 SDR11 - North Battery,m,644
+Storage_Tanks,TNK.052,Atmospheric storage tank 5000m3 - North Battery,each,4
+Storage_Tanks,TNK.053,Atmospheric storage tank 5000m3 - Wellpad 1,each,3
+Utilities,UTL.050,Diesel fuel storage tank 10m3 - Utilities Area,each,2
+Electrical,ELC.074,Motor control centre panel - South Battery,each,4
+Buildings_&_Facilities,BLD.067,Window aluminium double glaze - Manifold Area,each,6
+Instrumentation_&_Control,INS.086,DCS operator workstation - Wellpad 3,each,7
+Piping,PIP.089,CS tee equal 6in BW - Wellpad 1,each,9
+HSE_&_Safety,HSE.040,Wind sock and pole 6m - Area C,each,0
+Instrumentation_&_Control,INS.087,Instrument valve manifold 3-way - South Battery,each,118
+Valves,VLV.054,Check valve 6in 150lb CS RF - Train 3,each,18
+Mechanical_Equipment,MCH.073,Filter separator skid - South Battery,each,0
+Telecommunications,TEL.051,Satellite VSAT terminal - North Battery,each,0
+Utilities,UTL.051,Instrument air receiver 1000L - North Battery,each,2
+Concrete_Works,CON.049,Concrete wall 250mm - Area D,m3,213
+HSE_&_Safety,HSE.041,Speed bump rubber 1.8m - Utilities Area,each,9
+Piping,PIP.090,CS elbow 90deg 4in BW - Area A,each,184
+Piping,PIP.091,CS flange RFWN 10in 300lb CS - Slug Catcher Area,each,28
+Fire_Protection,FPS.055,Heat detector rate of rise - Utilities Area,each,24
+Mechanical_Equipment,MCH.074,Inline strainer Y-type 4in - Wellpad 2,each,16
+Concrete_Works,CON.050,Formwork to slab soffit - Area C,m2,2855
+Valves,VLV.055,Safety relief valve 4in set - Area B,each,9
+Piping,PIP.092,Pipe support guide CS 8in - Slug Catcher Area,each,234
+Piping,PIP.093,Spring hanger variable 4in - Area B,each,8
+Instrumentation_&_Control,INS.088,Safety PLC system SIL2 - Utilities Area,lot,1
+Mechanical_Equipment,MCH.075,Inline strainer basket 8in - Area B,each,4
+Buildings_&_Facilities,BLD.068,Partition wall 90mm stud - Area D,m2,382
+Electrical,ELC.075,MV switchgear panel 3.3kV - Wellpad 1,each,3
+Commissioning_&_Testing,COM.058,Chemical cleaning and passivation - Utilities Area,lot,2
+Piping,PIP.094,SS 316L pipe 2in SCH40 - Export Pump Area,m,25
+Steel_Structures,STL.049,Miscellaneous steelwork - Wellpad 2,ton,1
+Fire_Protection,FPS.056,Monitor foam and water 2000 l/m - South Battery,each,7
+Civil_&_Earthworks,CEW.037,Concrete kerb and channel - Wellpad 2,m,2075
+Buildings_&_Facilities,BLD.069,Partition wall 90mm stud - Train 3,m2,181
+Commissioning_&_Testing,COM.059,Pre-commissioning flushing - Manifold Area,lot,1
+Insulation_&_Painting,INL.037,Pipe colour coding banding - Wellpad 2,m,873
+Utilities,UTL.052,Instrument air receiver 1000L - Area D,each,1
+Piping,PIP.095,CS elbow 90deg 6in BW - Utilities Area,each,69
+Mechanical_Equipment,MCH.076,Centrifugal pump 200m3/h - Area A,each,4
+Valves,VLV.056,Needle valve half-in SS316 - Export Pump Area,each,28
+Storage_Tanks,TNK.054,Tank mixing agitator - Wellpad 1,each,5
+Buildings_&_Facilities,BLD.070,Window aluminium double glaze - Area A,each,3
+Electrical,ELC.076,Control cable 12C x 1.5mm2 - North Battery,m,1472
+Piping,PIP.096,CS pipe 2in SCH40 seamless - Export Pump Area,m,1410
+Instrumentation_&_Control,INS.089,Differential pressure transmitter - Wellpad 1,each,52
+Commissioning_&_Testing,COM.060,Pre-commissioning flushing - Wellpad 1,lot,0
+Valves,VLV.057,Butterfly valve 8in 150lb CS - North Battery,each,27
+Fire_Protection,FPS.057,Manual call point weatherproof - Train 1,each,74
+Telecommunications,TEL.052,Access control reader prox card - Wellpad 3,each,22
+Buildings_&_Facilities,BLD.071,Control room building structure - Utilities Area,each,3
+Utilities,UTL.053,Instrument air compressor 10 bar - Train 3,each,3
+Utilities,UTL.054,Sewage pump submersible - Area C,each,4
+HVAC,HVC.035,Ductwork galvanised 1000x500 - Wellpad 3,m2,111
+Buildings_&_Facilities,BLD.072,Raised access flooring 600x600 - Area D,m2,167
+Buildings_&_Facilities,BLD.073,Modular office building 10m x 6m - Train 3,each,1
+Piping,PIP.097,CS reducer 8x6in BW - Train 2,each,33
+HVAC,HVC.036,Air handling unit 20000 m3/h - Export Pump Area,each,1
+Valves,VLV.058,Ball valve 2in 150lb CS FF - Utilities Area,each,7
+Insulation_&_Painting,INL.038,Fireproofing intumescent 2hr - Export Pump Area,m2,106
+Fire_Protection,FPS.058,Fire hydrant pillar type - Train 1,each,4
+Fire_Protection,FPS.059,Hose reel cabinet SS - Area B,each,30
+Utilities,UTL.055,Potable water treatment package - Wellpad 1,each,3

@@ -4,9 +4,9 @@ db/config.json
 .env
 *.env
 
-# --- Local databases & test data ---
+# --- Local databases & generated large test data ---
 data/*.db
-data/*.csv
+data/boq_1m.csv
 
 # --- Logs ---
 logs/
