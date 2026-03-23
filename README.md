@@ -1,6 +1,6 @@
 # BOQ Tracker
 
-A local web application for tracking Bill of Quantities (BOQ) against installed progress on construction and engineering projects.
+A web application for tracking Bill of Quantities (BOQ) against installed progress on construction and engineering projects. Runs locally or hosted on a service in production.
 
 ## Stack
 
@@ -47,12 +47,7 @@ Enter your Azure PostgreSQL connection details in the **Setup** page of the UI a
 ### Run
 
 ```bash
-# Option 1 — start script (Windows)
 start.cmd
-
-# Option 2 — manual
-.venv\Scripts\uvicorn main:app --reload   # backend on :8000
-cd frontend && npm run dev                 # frontend on :5173
 ```
 
 ### Data
