@@ -2,14 +2,12 @@
 
 A web application for tracking Bill of Quantities (BOQ) against installed progress on construction and engineering projects. Runs locally or hosted on a service in production.
 
-## Stack
+## Screenshots
 
-| Layer | Technology |
-|---|---|
-| Backend | FastAPI + SQLAlchemy |
-| Frontend | React + Vite + Tailwind CSS |
-| Database | Azure PostgreSQL (Azure AD auth) / SQLite (local fallback) |
-| Auth | Microsoft Interactive Browser (via `azure-identity`) |
+![Login](docs/login.png)
+![Budget](docs/budget.png)
+![Progress](docs/progress.png)
+![Admin](docs/admin.png)
 
 ## Features
 
@@ -84,3 +82,16 @@ Use `data/generate_boq.py` to generate larger datasets.
 
 - `db/config.json` and `db/pg_token.json` are excluded from git — never commit these
 - The app runs entirely locally; no cloud deployment is configured
+
+## Stack
+
+| Layer | Technology |
+|---|---|
+| Backend | FastAPI + SQLAlchemy |
+| Frontend | React + Vite + Tailwind CSS |
+| Database | Azure PostgreSQL (Azure AD auth) / SQLite (local fallback) |
+| Auth | Microsoft Interactive Browser (via `azure-identity`) |
+
+## License
+
+MIT
