@@ -15,7 +15,6 @@ A local web application for tracking Bill of Quantities (BOQ) against installed 
 
 - **BOQ import** — bulk CSV import via PostgreSQL `COPY` into a staging table, then server-side upsert into the live table (handles millions of rows)
 - **Progress tracking** — log installed quantities against BOQ items by date
-- **Dashboard** — budget vs installed summary by category, with pagination
 - **Role management** — per-user roles (viewer / editor / admin)
 - **Audit log** — full history of changes
 - **Azure AD auth** — token-based login for Azure PostgreSQL, no passwords stored
@@ -89,7 +88,7 @@ Use `data/generate_boq.py` to generate larger datasets.
 ├── config/settings.py    # Pydantic settings
 ├── frontend/             # React + Vite app
 │   └── src/
-│       ├── pages/        # Budget, Progress, Setup pages
+│       ├── pages/        # Budget, Progress, Setup
 │       └── api.ts        # API client
 └── data/                 # Sample CSV data
 ```
