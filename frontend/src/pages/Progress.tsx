@@ -200,15 +200,15 @@ export default function Progress() {
                     key={row.id}
                     className={`transition-colors ${isHistory ? 'bg-blue-50' : isChanged ? 'bg-amber-50' : 'hover:bg-gray-50'}`}
                   >
-                    <td className="px-3 py-2 text-gray-500 whitespace-nowrap">{row.category}</td>
-                    <td className="px-3 py-2 font-mono font-semibold text-gray-800 whitespace-nowrap">{row.code}</td>
-                    <td className="px-3 py-2 text-gray-700 max-w-sm">
+                    <td className="px-3 py-2 text-gray-500 whitespace-nowrap align-middle">{row.category}</td>
+                    <td className="px-3 py-2 font-mono font-semibold text-gray-800 whitespace-nowrap align-middle">{row.code}</td>
+                    <td className="px-3 py-2 text-gray-700 max-w-sm align-middle">
                       <div className="truncate" title={row.description}>{row.description}</div>
                     </td>
-                    <td className="px-3 py-2 text-center text-gray-500">{row.unit}</td>
-                    <td className="px-3 py-2 text-right tabular-nums text-gray-600">{row.budget_quantity.toFixed(3)}</td>
-                    <td className="px-3 py-2">
-                      <div className="flex flex-col gap-1">
+                    <td className="px-3 py-2 text-center text-gray-500 align-middle">{row.unit}</td>
+                    <td className="px-3 py-2 text-right tabular-nums text-gray-600 align-middle">{row.budget_quantity.toFixed(3)}</td>
+                    <td className="px-3 py-2 align-middle">
+                      <div className="flex items-center gap-2">
                         <input
                           type="number" min="0" step="0.001"
                           value={eff.installed_quantity}
@@ -216,26 +216,22 @@ export default function Progress() {
                           className="w-28 px-2 py-1 border border-gray-300 rounded text-right text-sm focus:ring-1 focus:ring-blue-500 focus:outline-none tabular-nums"
                         />
                         {row.budget_quantity > 0 && (
-                          <div className="w-28">
-                            <div className="h-1 bg-gray-200 rounded-full">
-                              <div
-                                className={`h-1 rounded-full transition-all ${pct >= 100 ? 'bg-green-500' : pct > 0 ? 'bg-blue-500' : 'bg-gray-300'}`}
-                                style={{ width: `${pct}%` }}
-                              />
-                            </div>
-                            <span className="text-xs text-gray-400 tabular-nums">{pct.toFixed(1)}%</span>
-                          </div>
+                          <input
+                            readOnly
+                            value={`${pct.toFixed(1)}%`}
+                            className="w-16 px-2 py-1 border border-gray-200 rounded text-right text-sm text-gray-400 bg-gray-50 tabular-nums cursor-default"
+                          />
                         )}
                       </div>
                     </td>
-                    <td className="px-3 py-2">
+                    <td className="px-3 py-2 align-middle">
                       <input
                         type="date" value={eff.entry_date}
                         onChange={(e) => handleDateChange(row, e.target.value)}
                         className="px-2 py-1 border border-gray-300 rounded text-sm focus:ring-1 focus:ring-blue-500 focus:outline-none"
                       />
                     </td>
-                    <td className="px-3 py-2 text-center">
+                    <td className="px-3 py-2 text-center align-middle">
                       <button
                         onClick={() => toggleHistory(row.id)}
                         title="Toggle history"
